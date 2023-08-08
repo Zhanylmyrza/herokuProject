@@ -19,7 +19,7 @@ DATABASES = {
 }
 
 
-ALLOWED_HOSTS = ['course-zhanylmyrza-64f1765716ac.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['*','course-zhanylmyrza-64f1765716ac.herokuapp.com/','127.0.0.1']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
